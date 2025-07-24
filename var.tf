@@ -10,7 +10,9 @@ terraform {
 resource "null_resource" "example" {
     
     provisioner "local-exec" {
-        command = "echo 'This is a null resource example.'"
+        command = "echo 'This is a null resource example. with terraform cloud'"
     }
   
 }
+
+
