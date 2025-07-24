@@ -15,4 +15,9 @@ resource "null_resource" "example" {
   
 }
 
+output "example" {
+    value = "ashu-workspace"
+  
+}
+
 
