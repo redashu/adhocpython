@@ -25,3 +25,7 @@ output "example1" {
   
 }
 
+output "example2" {
+    value = "ashu-workspace follow me with githb"
+  
+}
