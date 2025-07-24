@@ -20,4 +20,8 @@ output "example" {
   
 }
 
+output "example1" {
+    value = "ashu-workspace follow me"
+  
+}
 
